@@ -1,0 +1,10 @@
+{
+  "LoginView": {
+    "textnamebold": "LOGIN",
+    "textname": "Sign in to continue",
+    "textname1": "forget Password ?",
+    "name": "SIGN IN",
+    "textname0": "Dont have an Accont? ",
+    "textname2": "Sign up"
+  }
+}
